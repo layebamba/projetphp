@@ -1,0 +1,8 @@
+251,diop,rokhy,roky@gmail.com,771457896,2000-02-01,promo1,exclure
+497,seye,niass,sniass@hotmail.fr,784568214,1990-05-08,promo1,inscris
+102,diop,mbacke,mbacke12@gmail.com,772025648,1992-05-20,promo2,inscris
+289,yaya,faye,yay96@gmail.com,771582413,2014-05-06,promo2,inscris
+449,badiane,sy,badiane125@gmail.com,771240365,1990-05-02,promo2,inscris
+110,fall,astou,asfa10@gmail.com,773541269,1995-05-22,promo3,inscris
+246,yaya,kane,kaneya@gmail.com,771582413,1991-05-08,promo2,exclure
+428,gaye,ndiaga,ndiagag@hotmail.fr,780125481,1992-05-05,promo2,exclure

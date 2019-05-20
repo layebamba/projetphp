@@ -1,0 +1,14 @@
+form{
+    background-color: aquamarine;
+    color: blueviolet;
+    position: relative;
+    right: -25%;
+    width: 20%;
+}
+body{
+    background-image: url(acad.jpg);
+}
+.navbar{
+    border: 1px solid blueviolet;
+    background-color: aqua;
+}
